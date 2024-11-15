@@ -27,3 +27,7 @@ This application implements the following cybersecurity best practices:
 2. Navigate to the project directory
 3. Install dependencies: pip install -r requirements.txt
 4. Run the application: python app.py
+
+
+Sources:
+https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/File_Upload_Cheat_Sheet.md
